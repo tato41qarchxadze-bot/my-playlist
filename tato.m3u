@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="საქართველოს 1" tvg-logo="" group-title="ქართული არხები",პირველი არხი
-https://example.com/stream/georgia1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="სპორტი 1" tvg-logo="" group-title="სპორტი",სპორტული არხი
-https://example.com/stream/sport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="კინო 1" tvg-logo="" group-title="ფილმები",მხატვრული ფილმები
-https://example.com/stream/movie1/index.m3u8
+#EXTINF:-1 group-title="ქართული არხები",პირველი არხი
+https://s1.gpb.ge/ge1/index.m3u8
+#EXTINF:-1 group-title="ქართული არხები",სილქ უნივერსალი
+https://live.silknet.com/live/silkuniversal/playlist.m3u8
