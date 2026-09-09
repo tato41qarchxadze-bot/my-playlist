@@ -2,3 +2,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="ქართული არხები",პირველი არხი
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="ქართული არხები",პირველი არხი
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 group-title="ქართული არხები",სილქ უნივერსალი
+https://live.silknet.com/live/silkuniversal/playlist.m3u8
+#EXTINF:-1 group-title="ქართული არხები",საზოგადოებრივი მაუწყებელი მეორე არხი
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
