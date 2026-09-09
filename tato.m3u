@@ -13,3 +13,28 @@ http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 #EXTINF:-1 group-title="ქართული არხები",პალიტრა ნიუსი
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-id="movies.1" tvg-name="ფილმები - აქშন" group-title="ფილმები",აქშన ფილმები
+http://example.com/movies-action
+
+#EXTINF:-1 tvg-id="movies.2" tvg-name="ფილმები - დრამა" group-title="ფილმები",დრამა ფილმები
+http://example.com/movies-drama
+
+#EXTINF:-1 tvg-id="movies.3" tvg-name="ფილმები - რომანტიკა" group-title="ფილმები",რომანტიკა
+http://example.com/movies-romance
+
+#EXTINF:-1 tvg-id="sports.1" tvg-name="სპორტი - ფეხბურთი" group-title="სპორტი",ფეხბურთი HD
+http://example.com/sports-football
+
+#EXTINF:-1 tvg-id="sports.2" tvg-name="სპორტი - ბოქსი" group-title="სპორტი",ბოქსი
+http://example.com/sports-boxing
+
+#EXTINF:-1 tvg-id="music.1" tvg-name="მუსიკა - პოპი" group-title="მუსიკა",პოპ მუსიკა
+http://example.com/music-pop
+
+#EXTINF:-1 tvg-id="music.2" tvg-name="მუსიკა - რ&ბ" group-title="მუსიკა",R&B მუსიკა
+http://example.com/music-rb
+
+#EXTINF:-1 tvg-id="adult.1" tvg-name="ზრდასრულ კონტენტი" group-title="18+",დაკვეთილი კონტენტი
+http://example.com/adult-content
