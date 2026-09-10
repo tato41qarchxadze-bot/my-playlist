@@ -1,22 +1,31 @@
 #EXTM3U
 
-### ქართული
+### ქართული ტელეკანალები
 #EXTINF:-1 group-title="ქართული",1TV
-https://tv.1tv.ge/live/1tv/index.m3u8
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 
-#EXTINF:-1 group-title="ქართული",Imedi
-https://live-hls.imedi.ge/live/imedi/playlist.m3u8
+#EXTINF:-1 group-title="ქართული",2TV (განათლება)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 group-title="ქართული",Imedi TV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
 
 #EXTINF:-1 group-title="ქართული",Rustavi 2
-https://rustavi2.ge/live
+https://sktv-forwarders.7m.pl/get.php?x=Rustavi2
 
-#EXTINF:-1 group-title="ქართული",GPB
-https://gpb.ge/live/gpb1/index.m3u8
+#EXTINF:-1 group-title="ქართული",Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 
-#EXTINF:-1 group-title="ქართული",Mtavari
-https://mtavari.tv/live/mtavari/playlist.m3u8
+#EXTINF:-1 group-title="ქართული",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 
-### რუსული
+#EXTINF:-1 group-title="ქართული",Pos TV
+https://live.postv.media/stream/index.m3u8
+
+#EXTINF:-1 group-title="ქართული",Euronews Georgia
+https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
+
+### რუსული ტელეკანალები
 #EXTINF:-1 group-title="რუსული",Первый канал
 https://stream.1tv.ru/streams/seamless_adaptive_bitrate_variant.m3u8
 
@@ -24,13 +33,28 @@ https://stream.1tv.ru/streams/seamless_adaptive_bitrate_variant.m3u8
 https://strm.yandex.ru/yndx_rossiya1/playlist.m3u8
 
 #EXTINF:-1 group-title="რუსული",НТВ
-https://ntv.ru/live
-
-#EXTINF:-1 group-title="რუსული",Матч ТВ
-https://matchtvhd.ru/live
+https://stream.ntv.ru/index.m3u8
 
 #EXTINF:-1 group-title="რუსული",ТНТ
 https://tnt-tv.ru/live
+
+#EXTINF:-1 group-title="რუსული",СТС
+https://sts.tv/live
+
+#EXTINF:-1 group-title="რუსული",ЦТЦ
+https://ctc-tv.ru/live
+
+#EXTINF:-1 group-title="რუსული",ДОМ кинематографии
+https://domru.tv/live
+
+#EXTINF:-1 group-title="რუსული",5 канал
+https://5tv.ru/live
+
+#EXTINF:-1 group-title="რუსული",РТР-Планета
+https://player.smotrim.ru/iframe/stream/live_id/63251
+
+#EXTINF:-1 group-title="რუსული",Euronews по-русски
+https://euronews-ru-hls.akamaized.net/hls/live/2033123/euronews-rus/playlist.m3u8
 
 ### სპორტი
 #EXTINF:-1 group-title="სპორტი",🏆 Setanta Sports 1
@@ -42,17 +66,23 @@ https://setanta.ge/live/stream2
 #EXTINF:-1 group-title="სპორტი",⚽ Матч! Премьер
 https://matchpremierhdstra.cdnvideo.ru/matchpremier/smil:matchpremier/playlist.m3u8
 
-#EXTINF:-1 group-title="სპორტი",⚽ Матч! Футбол 1
-https://matchtv.cdnvideo.ru/matchtvhd/smil:matchtvhd/playlist.m3u8
+#EXTINF:-1 group-title="სპორტი",⚽ Матч! ТВ
+https://matchtvhd.cdnvideo.ru/matchtvhd/smil:matchtvhd/playlist.m3u8
 
 #EXTINF:-1 group-title="სპორტი",🥊 Спорт 1
 https://sport1.cdnvideo.ru/sport1/smil:sport1/playlist.m3u8
 
-#EXTINF:-1 group-title="სპორტი",🏅 Чемпион
-https://championship.cdnvideo.ru/championship/smil:championship/playlist.m3u8
+#EXTINF:-1 group-title="სპორტი",🥊 Спорт 2
+https://sport2.cdnvideo.ru/sport2/smil:sport2/playlist.m3u8
 
 #EXTINF:-1 group-title="სპორტი",🎾 Eurosport 1
 https://eurosport1.cdnvideo.ru/eurosport/smil:eurosport/playlist.m3u8
+
+#EXTINF:-1 group-title="სპორტი",🎾 Eurosport 2
+https://eurosport2.cdnvideo.ru/eurosport2/smil:eurosport2/playlist.m3u8
+
+#EXTINF:-1 group-title="სპორტი",🏅 Чемпион
+https://championship.cdnvideo.ru/championship/smil:championship/playlist.m3u8
 
 #EXTINF:-1 group-title="სპორტი",🏒 Хоккей
 https://hockey.cdnvideo.ru/hockey/smil:hockey/playlist.m3u8
@@ -63,68 +93,20 @@ https://boxing.cdnvideo.ru/boxing/smil:boxing/playlist.m3u8
 #EXTINF:-1 group-title="სპორტი",🥋 MMA
 https://mma.cdnvideo.ru/mma/smil:mma/playlist.m3u8
 
-### ფილმები
-#EXTINF:-1 group-title="ფილმები",🎬 აქშონი
-https://example-stream.com/movies/action
+### საერთაშორისო
+#EXTINF:-1 group-title="საერთაშორისო",BBC News
+https://stream.live.bbc.com/live/bbc_news_channel/master.m3u8
 
-#EXTINF:-1 group-title="ფილმები",🎭 დრამა
-https://example-stream.com/movies/drama
+#EXTINF:-1 group-title="საერთაშორისო",CNN International
+https://cnn-cnninternational-1.plex.wurl.com/live/bbc_news_channel/master.m3u8
 
-#EXTINF:-1 group-title="ფილმები",💕 რომანტიკა
-https://example-stream.com/movies/romance
+#EXTINF:-1 group-title="საერთაშორისო",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="ფილმები",😂 კომედია
-https://example-stream.com/movies/comedy
+### ფილმები (GitHub სრული პლეილისტი)
+#EXTINF:-1 group-title="ფილმები",📺 ფილმები და სხვა
+https://raw.githubusercontent.com/free-tv/iptv/master/lists/movies.m3u
 
-#EXTINF:-1 group-title="ფილმები",👻 საშინელება
-https://example-stream.com/movies/horror
-
-#EXTINF:-1 group-title="ფილმები",✨ საფანტაზიო
-https://example-stream.com/movies/scifi
-
-#EXTINF:-1 group-title="ფილმები",⚡ ტრილერი
-https://example-stream.com/movies/thriller
-
-#EXTINF:-1 group-title="ფილმები",🎨 ანიმაციონი
-https://example-stream.com/movies/animation
-
-### მუსიკა
-#EXTINF:-1 group-title="მუსიკა",🎵 პოპი
-https://music-pop.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="მუსიკა",🎤 რეპი
-https://music-hiphop.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="მუსიკა",💿 R&B
-https://music-rb.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="მუსიკა",🎸 როკი
-https://music-rock.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="მუსიკა",🎹 ელექტრონული
-https://music-electronic.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="მუსიკა",🎺 ჯაზი
-https://music-jazz.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="მუსიკა",🇬🇪 ქართული
-https://music-georgian.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="მუსიკა",🇷🇺 რუსული
-https://music-russian.example.com/stream.m3u8
-
-### 18+
-#EXTINF:-1 group-title="18+",🔞 Adult 1
-https://adult-stream-1.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="18+",🔞 Adult 2
-https://adult-stream-2.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="18+",🔞 Adult 3
-https://adult-stream-3.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="18+",🔞 Adult 4
-https://adult-stream-4.example.com/stream.m3u8
-
-#EXTINF:-1 group-title="18+",🔞 Adult 5
-https://adult-stream-5.example.com/stream.m3u8
+### +18 და მეტი (GitHub სრული პლეილისტი)
+#EXTINF:-1 group-title="მეტი",🎬 სრული პლეილისტი (300+ არხი)
+https://raw.githubusercontent.com/free-tv/iptv/master/playlist.m3u8
