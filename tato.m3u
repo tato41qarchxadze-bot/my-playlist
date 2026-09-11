@@ -1,25 +1,130 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="movies.1" tvg-name="ფილმები - აქშন" group-title="ფილმები",აქშన ფილმები
-http://example.com/movies-action
+### ქართული
+#EXTINF:-1 group-title="ქართული",1TV
+https://tv.1tv.ge/live/1tv/index.m3u8
 
-#EXTINF:-1 tvg-id="movies.2" tvg-name="ფილმები - დრამა" group-title="ფილმები",დრამა ფილმები
-http://example.com/movies-drama
+#EXTINF:-1 group-title="ქართული",Imedi
+https://live-hls.imedi.ge/live/imedi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="movies.3" tvg-name="ფილმები - რომანტიკა" group-title="ფილმები",რომანტიკა
-http://example.com/movies-romance
+#EXTINF:-1 group-title="ქართული",Rustavi 2
+https://rustavi2.ge/live
 
-#EXTINF:-1 tvg-id="sports.1" tvg-name="სპორტი - ფეხბურთი" group-title="სპორტი",ფეხბურთი HD
-http://example.com/sports-football
+#EXTINF:-1 group-title="ქართული",GPB
+https://gpb.ge/live/gpb1/index.m3u8
 
-#EXTINF:-1 tvg-id="sports.2" tvg-name="სპორტი - ბოქსი" group-title="სპორტი",ბოქსი
-http://example.com/sports-boxing
+#EXTINF:-1 group-title="ქართული",Mtavari
+https://mtavari.tv/live/mtavari/playlist.m3u8
 
-#EXTINF:-1 tvg-id="music.1" tvg-name="მუსიკა - პოპი" group-title="მუსიკა",პოპ მუსიკა
-http://example.com/music-pop
+### რუსული
+#EXTINF:-1 group-title="რუსული",Первый канал
+https://stream.1tv.ru/streams/seamless_adaptive_bitrate_variant.m3u8
 
-#EXTINF:-1 tvg-id="music.2" tvg-name="მუსიკა - რ&ბ" group-title="მუსიკა",R&B მუსიკა
-http://example.com/music-rb
+#EXTINF:-1 group-title="რუსული",Россия 1
+https://strm.yandex.ru/yndx_rossiya1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="adult.1" tvg-name="ზრდასრულ კონტენტი" group-title="18+",დაკვეთილი კონტენტი
-http://example.com/adult-content
+#EXTINF:-1 group-title="რუსული",НТВ
+https://ntv.ru/live
+
+#EXTINF:-1 group-title="რუსული",Матч ТВ
+https://matchtvhd.ru/live
+
+#EXTINF:-1 group-title="რუსული",ТНТ
+https://tnt-tv.ru/live
+
+### სპორტი
+#EXTINF:-1 group-title="სპორტი",🏆 Setanta Sports 1
+https://setanta.ge/live/stream1
+
+#EXTINF:-1 group-title="სპორტი",🏆 Setanta Sports 2
+https://setanta.ge/live/stream2
+
+#EXTINF:-1 group-title="სპორტი",⚽ Матч! Премьер
+https://matchpremierhdstra.cdnvideo.ru/matchpremier/smil:matchpremier/playlist.m3u8
+
+#EXTINF:-1 group-title="სპორტი",⚽ Матч! Футбол 1
+https://matchtv.cdnvideo.ru/matchtvhd/smil:matchtvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="სპორტი",🥊 Спорт 1
+https://sport1.cdnvideo.ru/sport1/smil:sport1/playlist.m3u8
+
+#EXTINF:-1 group-title="სპორტი",🏅 Чемпион
+https://championship.cdnvideo.ru/championship/smil:championship/playlist.m3u8
+
+#EXTINF:-1 group-title="სპორტი",🎾 Eurosport 1
+https://eurosport1.cdnvideo.ru/eurosport/smil:eurosport/playlist.m3u8
+
+#EXTINF:-1 group-title="სპორტი",🏒 Хоккей
+https://hockey.cdnvideo.ru/hockey/smil:hockey/playlist.m3u8
+
+#EXTINF:-1 group-title="სპორტი",🥊 Бокс
+https://boxing.cdnvideo.ru/boxing/smil:boxing/playlist.m3u8
+
+#EXTINF:-1 group-title="სპორტი",🥋 MMA
+https://mma.cdnvideo.ru/mma/smil:mma/playlist.m3u8
+
+### ფილმები
+#EXTINF:-1 group-title="ფილმები",🎬 აქშონი
+https://example-stream.com/movies/action
+
+#EXTINF:-1 group-title="ფილმები",🎭 დრამა
+https://example-stream.com/movies/drama
+
+#EXTINF:-1 group-title="ფილმები",💕 რომანტიკა
+https://example-stream.com/movies/romance
+
+#EXTINF:-1 group-title="ფილმები",😂 კომედია
+https://example-stream.com/movies/comedy
+
+#EXTINF:-1 group-title="ფილმები",👻 საშინელება
+https://example-stream.com/movies/horror
+
+#EXTINF:-1 group-title="ფილმები",✨ საფანტაზიო
+https://example-stream.com/movies/scifi
+
+#EXTINF:-1 group-title="ფილმები",⚡ ტრილერი
+https://example-stream.com/movies/thriller
+
+#EXTINF:-1 group-title="ფილმები",🎨 ანიმაციონი
+https://example-stream.com/movies/animation
+
+### მუსიკა
+#EXTINF:-1 group-title="მუსიკა",🎵 პოპი
+https://music-pop.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="მუსიკა",🎤 რეპი
+https://music-hiphop.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="მუსიკა",💿 R&B
+https://music-rb.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="მუსიკა",🎸 როკი
+https://music-rock.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="მუსიკა",🎹 ელექტრონული
+https://music-electronic.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="მუსიკა",🎺 ჯაზი
+https://music-jazz.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="მუსიკა",🇬🇪 ქართული
+https://music-georgian.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="მუსიკა",🇷🇺 რუსული
+https://music-russian.example.com/stream.m3u8
+
+### 18+
+#EXTINF:-1 group-title="18+",🔞 Adult 1
+https://adult-stream-1.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="18+",🔞 Adult 2
+https://adult-stream-2.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="18+",🔞 Adult 3
+https://adult-stream-3.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="18+",🔞 Adult 4
+https://adult-stream-4.example.com/stream.m3u8
+
+#EXTINF:-1 group-title="18+",🔞 Adult 5
+https://adult-stream-5.example.com/stream.m3u8
