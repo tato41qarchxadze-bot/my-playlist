@@ -11,8 +11,17 @@ https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News",Настоящее Время
 https://currenttime.live-s.cdn.ngenix.net/hls/live/2034176/ct/playlist.m3u8
 
+#EXTINF:-1 group-title="News",Euronews English
+https://euronews-euronews-english-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News",Bloomberg TV
+https://bloomberg-bloombergtv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT-web/master.m3u8
 
 #EXTINF:-1 group-title="Music",Clubbing TV
 https://clubbingtv-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Travel",Travelxp
+https://travelxp-samsungitaly.amagi.tv/playlist.m3u8
