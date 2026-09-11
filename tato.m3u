@@ -14,7 +14,38 @@ https://rustavi2.ge/live
 https://gpb.ge/live/gpb1/index.m3u8
 
 #EXTINF:-1 group-title="ქართული",Mtavari
-https://mtavari.tv/live/mtavari/playlist.m3u8
+https://mtavari.tv/live/mtavari/playlist.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="film.action" tvg-name="ფილმები - აქშონი" group-title="ფილმები" tvg-logo="https://i.imgur.com/action.png",🎬 აქშონი ფილმები
+https://example-stream.com/movies/action-hd
+
+#EXTINF:-1 tvg-id="film.drama" tvg-name="ფილმები - დრამა" group-title="ფილმები" tvg-logo="https://i.imgur.com/drama.png",🎭 დრამა ფილმები
+https://example-stream.com/movies/drama-hd
+
+#EXTINF:-1 tvg-id="film.romance" tvg-name="ფილმები - რომანტიკა" group-title="ფილმები" tvg-logo="https://i.imgur.com/romance.png",💕 რომანტიკა
+https://example-stream.com/movies/romance-hd
+
+#EXTINF:-1 tvg-id="film.comedy" tvg-name="ფილმები - კომედია" group-title="ფილმები" tvg-logo="https://i.imgur.com/comedy.png",😂 კომედია
+https://example-stream.com/movies/comedy-hd
+
+#EXTINF:-1 tvg-id="film.horror" tvg-name="ფილმები - საშინელება" group-title="ფილმები" tvg-logo="https://i.imgur.com/horror.png",👻 საშინელება
+https://example-stream.com/movies/horror-hd
+
+#EXTINF:-1 tvg-id="film.scifi" tvg-name="ფილმები - საფანტაზიო" group-title="ფილმები" tvg-logo="https://i.imgur.com/scifi.png",✨ საფანტაზიო
+https://example-stream.com/movies/scifi-hd
+
+#EXTINF:-1 tvg-id="film.thriller" tvg-name="ფილმები - ტრილერი" group-title="ფილმები" tvg-logo="https://i.imgur.com/thriller.png",⚡ ტრილერი
+https://example-stream.com/movies/thriller-hd
+
+#EXTINF:-1 tvg-id="film.animation" tvg-name="ფილმები - ანიმაციონი" group-title="ფილმები" tvg-logo="https://i.imgur.com/animation.png",🎨 ანიმაციონი
+https://example-stream.com/movies/animation-hd
+
+#EXTINF:-1 tvg-id="film.adventure" tvg-name="ფილმები - თავგადასავალი" group-title="ფილმები" tvg-logo="https://i.imgur.com/adventure.png",🧭 თავგადასავალი
+https://example-stream.com/movies/adventure-hd
+
+#EXTINF:-1 tvg-id="film.war" tvg-name="ფილმები - სამხედრო" group-title="ფილმები" tvg-logo="https://i.imgur.com/war.png",🎖️ სამხედრო
+https://example-stream.com/movies/war-hd
+
+
 
 ### რუსული
 #EXTINF:-1 group-title="რუსული",Первый канал
