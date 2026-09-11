@@ -1,81 +1,18 @@
-#EXTM3U8
-#EXTINF:-1 tvg-id="1tv" tvg-name="1TV" tvg-logo="https://1tv.ge/app/uploads/2020/03/1tv-logo.png" group-title="General",პირველი არხი (საქართველო)
+#EXTM3U
+#EXTINF:-1 group-title="General",პირველი არხი (საქართველო)
 https://hlslive.1tv.ge/live/eds/1tv/1tv.m3u8
 
-#EXTINF:-1 tvg-id="1tv-education" tvg-name="1TV Education" tvg-logo="https://1tv.ge/app/uploads/2020/09/ganatlebis-arxi-logo.png" group-title="General",პირველი არხი - განათლება
+#EXTINF:-1 group-title="General",პირველი არხი - განათლება
 https://hlslive.1tv.ge/live/eds/tv2/tv2.m3u8
 
-#EXTINF:-1 tvg-id="formula" tvg-name="Formula" tvg-logo="https://formula.ge/Content/images/logo.png" group-title="General",ფორმულა ტვ
-https://edge2.myvideo.ge/live/_definst_/formula/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mtavari" tvg-name="Mtavari Arkhi" tvg-logo="https://mtavari.tv/images/logo.png" group-title="General",მთავარი არხი
-https://edge2.myvideo.ge/live/_definst_/mtavari/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvpirveli" tvg-name="TV Pirveli" tvg-logo="https://tvpirveli.ge/images/logo.png" group-title="General",ტვ პირველი
-https://edge2.myvideo.ge/live/_definst_/tvpirveli/playlist.m3u8
-
-#EXTINF:-1 tvg-id="postv" tvg-name="POSTV" tvg-logo="https://postv.ge/images/logo.png" group-title="General",POSTV
-https://edge2.myvideo.ge/live/_definst_/postv/playlist.m3u8#EXTINF:-1 tvg-id="red-bull-tv" tvg-name="Red Bull TV" tvg-logo="https://images.redbull.com/image/upload/redbullcom/logo/redbull-tv-logo.png" group-title="Sports",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT-web/master.m3u8
-
-#EXTINF:-1 tvg-id="trc-sport" tvg-name="TRC Sport" tvg-logo="" group-title="Sports",TRC Sport
-https://live-hlsnews.trc.md/hls/trcsport.m3u8
-
-#EXTINF:-1 tvg-id="fastech-sports" tvg-name="Fastech Sports" tvg-logo="" group-title="Sports",Fastech Sports
-https://fastech-sports-1-us.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nba-tv-free" tvg-name="SportsGrid" tvg-logo="" group-title="Sports",SportsGrid (სპორტული ანალიტიკა)
-https://linear-415.frequency.stream/dist/csm/video/linear-415/master.m3u8
-
-#EXTINF:-1 tvg-id="lw-fights" tvg-name="Law & Crime / Combat" tvg-logo="" group-title="Sports",Combat Sports (საბრძოლო)
-https://rakuten-combat-1-us.rakuten.wurl.tv/playlist.m3u8#EXTINF:-1 tvg-id="euronews-ru" tvg-name="Euronews Russian" tvg-logo="https://static.euronews.com/articles/stories/04/89/34/62/1200x675_cmsv2_f8db7b33-2895-5cb3-8aef-13b313ef0463.jpg" group-title="News",Euronews Russian
-https://euronews-euronews-russian-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dw-russian" tvg-name="DW Russian" tvg-logo="https://static.dw.com/image/51934989_303.png" group-title="News",DW Русский
+#EXTINF:-1 group-title="News",DW Русский
 https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="current-time" tvg-name="Current Time" tvg-logo="https://gdb.rferl.org/02000000-0aff-0242-eb41-08dae921d784_w1200_h630.png" group-title="News",Настоящее Время
+#EXTINF:-1 group-title="News",Настоящее Время
 https://currenttime.live-s.cdn.ngenix.net/hls/live/2034176/ct/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rbk-tv" tvg-name="RBK TV" tvg-logo="https://s0.rbk.ru/v6_top_db/img/rbktv/logo_rbktv.png" group-title="Business",РБК ТВ
-https://rbk-rbktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT-web/master.m3u8
 
-#EXTINF:-1 tvg-id="mir-24" tvg-name="Mir 24" tvg-logo="https://mirtv.ru/upload/medialibrary/2f3/2f3a61d153e20e20042456e522961556.png" group-title="General",Мир 24
-https://amg.net.kg/hls/mir24/index.m3u8
-
-#EXTINF:-1 tvg-id="rt-doc" tvg-name="RT Documentary" tvg-logo="https://rtd.rt.com/i/logo.png" group-title="Documentary",RT Documentary (RU)
-https://rt-rtdoc.gcdn.co/rtdoc/index.m3u8#EXTINF:-1 tvg-id="rakuten-movies" tvg-name="Rakuten TV Movies" tvg-logo="" group-title="Movies",Rakuten TV - Movies
-https://rakuten-free-movies-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="filmrise-action" tvg-name="FilmRise Action" tvg-logo="" group-title="Movies",FilmRise Action
-https://filmrise-action-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="filmrise-drama" tvg-name="FilmRise Drama" tvg-logo="" group-title="Movies",FilmRise Drama
-https://filmrise-drama-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="filmrise-sci-fi" tvg-name="FilmRise Sci-Fi" tvg-logo="" group-title="Movies",FilmRise Sci-Fi
-https://filmrise-scifi-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="runtime" tvg-name="Runtime Movies" tvg-logo="" group-title="Movies",Runtime Movie Channel
-https://runtime-movies-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="maverick-movies" tvg-name="Maverick Movies" tvg-logo="" group-title="Movies",Maverick Movies
-https://maverick-movies-1-us.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV" tvg-logo="" group-title="Music",Clubbing TV (ელექტრონული მუსიკა)
+#EXTINF:-1 group-title="Music",Clubbing TV
 https://clubbingtv-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vevo-pop" tvg-name="Vevo Pop" tvg-logo="" group-title="Music",Vevo Pop
-https://vevo-international-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="trace-urban" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban (Hip-Hop & R&B)
-https://trace-urban-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="qwest-jazz" tvg-name="Qwest TV Jazz and Beyond" tvg-logo="" group-title="Music",Qwest TV (ჯაზი და სოული)
-https://samsung-qwesttv-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="stingray-classica" tvg-name="Stingray Classica" tvg-logo="" group-title="Music",Stingray Classica (კლასიკური)
-https://stingray-classica-1-eu.rakuten.wurl.tv/playlist.m3u8#EXTINF:-1 tvg-id="night-club" tvg-name="Night Club TV" tvg-logo="" group-title="Adult",Night Club (ღამის ეროტიკული შოუები)
-https://rakuten-adult-1-us.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="midnight-purgatory" tvg-name="Midnight Movies" tvg-logo="" group-title="Movies",Midnight Thriller & Cult (კულტური/კრიმინალური ფილმები)
-https://filmrise-midnight-1-us.plex.wurl.tv/playlist.m3u8
