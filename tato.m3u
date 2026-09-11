@@ -1,59 +1,17 @@
-#EXTM3U
+#EXTINF:-1 tvg-id="1tv" tvg-name="1TV" tvg-logo="https://1tv.ge/app/uploads/2020/03/1tv-logo.png" group-title="General",პირველი არხი (საქართველო)
+https://hlslive.1tv.ge/live/eds/1tv/1tv.m3u8
 
-### ქართული
-#EXTINF:-1 group-title="ქართული",1TV
-https://tv.1tv.ge/live/1tv/index.m3u8
+#EXTINF:-1 tvg-id="1tv-education" tvg-name="1TV Education" tvg-logo="https://1tv.ge/app/uploads/2020/09/ganatlebis-arxi-logo.png" group-title="General",პირველი არხი - განათლება
+https://hlslive.1tv.ge/live/eds/tv2/tv2.m3u8
 
-#EXTINF:-1 group-title="ქართული",Imedi
-https://live-hls.imedi.ge/live/imedi/playlist.m3u8
+#EXTINF:-1 tvg-id="formula" tvg-name="Formula" tvg-logo="https://formula.ge/Content/images/logo.png" group-title="General",ფორმულა ტვ
+https://edge2.myvideo.ge/live/_definst_/formula/playlist.m3u8
 
-#EXTINF:-1 group-title="ქართული",Rustavi 2
-https://rustavi2.ge/live
+#EXTINF:-1 tvg-id="mtavari" tvg-name="Mtavari Arkhi" tvg-logo="https://mtavari.tv/images/logo.png" group-title="General",მთავარი არხი
+https://edge2.myvideo.ge/live/_definst_/mtavari/playlist.m3u8
 
-#EXTINF:-1 group-title="ქართული",Mtavari
-https://mtavari.tv/live/mtavari/playlist.m3u8
+#EXTINF:-1 tvg-id="tvpirveli" tvg-name="TV Pirveli" tvg-logo="https://tvpirveli.ge/images/logo.png" group-title="General",ტვ პირველი
+https://edge2.myvideo.ge/live/_definst_/tvpirveli/playlist.m3u8
 
-#EXTINF:-1 group-title="ქართული",GPB
-https://gpb.ge/live/gpb1/index.m3u8
-
-### რუსული
-#EXTINF:-1 group-title="რუსული",Первый канал
-https://stream.1tv.ru/streams/seamless_adaptive_bitrate_variant.m3u8
-
-#EXTINF:-1 group-title="რუსული",Россия 1
-https://strm.yandex.ru/yndx_rossiya1/playlist.m3u8
-
-#EXTINF:-1 group-title="რუსული",НТВ
-https://ntv.ru/live
-
-#EXTINF:-1 group-title="რუსული",ТНТ
-https://tnt-tv.ru/live
-
-#EXTINF:-1 group-title="რუსული",СТС
-https://sts.tv/live
-
-### სპორტი
-#EXTINF:-1 group-title="სპორტი",🏆 Setanta 1
-https://setanta.ge/live/stream1
-
-#EXTINF:-1 group-title="სპორტი",🏆 Setanta 2
-https://setanta.ge/live/stream2
-
-#EXTINF:-1 group-title="სპორტი",⚽ Match Premier
-https://matchpremierhdstra.cdnvideo.ru/matchpremier/smil:matchpremier/playlist.m3u8
-
-#EXTINF:-1 group-title="სპორტი",⚽ Match TV
-https://matchtvhd.cdnvideo.ru/matchtvhd/smil:matchtvhd/playlist.m3u8
-
-#EXTINF:-1 group-title="სპორტი",🥊 Sport 1
-https://sport1.cdnvideo.ru/sport1/smil:sport1/playlist.m3u8
-
-#EXTINF:-1 group-title="სპორტი",🥊 Sport 2
-https://sport2.cdnvideo.ru/sport2/smil:sport2/playlist.m3u8
-
-### საერთაშორისო
-#EXTINF:-1 group-title="საერთაშორისო",BBC News
-https://stream.live.bbc.com/live/bbc_news_channel/master.m3u8
-
-#EXTINF:-1 group-title="საერთაშორისო",Euronews
-https://euronews-ru-hls.akamaized.net/hls/live/2033123/euronews-rus/playlist.m3u8
+#EXTINF:-1 tvg-id="postv" tvg-name="POSTV" tvg-logo="https://postv.ge/images/logo.png" group-title="General",POSTV
+https://edge2.myvideo.ge/live/_definst_/postv/playlist.m3u8
