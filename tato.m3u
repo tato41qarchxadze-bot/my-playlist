@@ -52,711 +52,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="მუსიკა",NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ავსტრალია",10 HD
-https://i.mjh.nz/.r/10-nsw.m3u8
-#EXTINF:-1 group-title="ავსტრალია",ABC
-https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 group-title="ავსტრალია",SBS
-https://i.mjh.nz/.r/sbs-sbst.m3u8
-#EXTINF:-1 group-title="ავსტრალია",Seven
-https://i.mjh.nz/.r/seven-syd.m3u8
-#EXTINF:-1 group-title="ავსტრალია",Nine
-https://i.mjh.nz/.r/channel-9-nsw.m3u8
-#EXTINF:-1 group-title="ავსტრალია",10 Peach
-https://i.mjh.nz/.r/10peach-nsw.m3u8
-#EXTINF:-1 group-title="ავსტრალია",10 Bold
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 group-title="ავსტრალია",10 Shake
-https://i.mjh.nz/.r/10shake-nsw.m3u8
-#EXTINF:-1 group-title="ავსტრალია",TVSN
-https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 group-title="ავსტრალია",ABC Kids
-https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:-1 group-title="ავსტრალია",ABC Me
-https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 group-title="ავსტრალია",ABC News
-https://c.mjh.nz/abc-news.m3u8
-#EXTINF:-1 group-title="ავსტრალია",M4TV
-https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:-1 group-title="ავსტრალია",SBS Viceland
-https://i.mjh.nz/.r/sbs-2syd.m3u8
-#EXTINF:-1 group-title="ავსტრალია",SBS World Movies
-https://i.mjh.nz/.r/sbs-4syd.m3u8
-#EXTINF:-1 group-title="ალბანეთი",Kanali 7
-https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-#EXTINF:-1 group-title="ალბანეთი",A2 CNN Albania
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="ალბანეთი",Alpo TV
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 group-title="ალბანეთი",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 group-title="ალბანეთი",News 24 Albania
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ალბანეთი",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 group-title="ალბანეთი",Panorama TV
-http://198.244.188.94/panorama/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ალბანეთი",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 group-title="ალბანეთი",Syri
-https://stream.syritv.al/live/syritv/playlist.m3u8
-#EXTINF:-1 group-title="ალბანეთი",Tropoja
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ალბანეთი",TV 7 Albania
-https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
-#EXTINF:-1 group-title="რუსეთი",Россия 1
-https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="რუსეთი",Матч ТВ
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1 group-title="რუსეთი",НТВ
-http://ott-cdn.ucom.am/s17/index.m3u8
-#EXTINF:-1 group-title="რუსეთი",Пятый канал
-https://streaming.televizor-24-tochka.ru/live/8.m3u8
-#EXTINF:-1 group-title="რუსეთი",Россия-Культура
-https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="რუსეთი",Россия-24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 group-title="რუსეთი",Карусель
-https://streaming102.interskytech.com/live/232.m3u8
-#EXTINF:-1 group-title="რუსეთი",ОТР
-https://streaming.televizor-24-tochka.ru/live/12.m3u8
-#EXTINF:-1 group-title="რუსეთი",ТВ Центр
-http://ott-cdn.ucom.am/s54/index.m3u8
-#EXTINF:-1 group-title="რუსეთი",Рен ТВ
-https://streaming.televizor-24-tochka.ru/live/14.m3u8
-#EXTINF:-1 group-title="რუსეთი",Спас
-https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 group-title="რუსეთი",СТС
-http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 group-title="ჩილე",UCV Television
-https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="ჩილე",TV+
-https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-#EXTINF:-1 group-title="ჩილე",UChile TV
-https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ჩილე",El Pinguino TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ჩილე",Bio Bio TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ჩილე",TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8
-#EXTINF:-1 group-title="ჩილე",24 Horas
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:-1 group-title="ჩილე",NTV Chile
-https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
-#EXTINF:-1 group-title="ჩილე",TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 group-title="ჩილე",TVN 3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 group-title="ჩილე",Chilevision
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ჩილე",Chilevision Noticias
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
-#EXTINF:-1 group-title="ჩილე",Canal 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8
-#EXTINF:-1 group-title="საბავშვო",Spacetoon Arabic
-https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
-#EXTINF:-1 group-title="საინფორმაციო",Sky News Arabia Vertical
-https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
-#EXTINF:-1 group-title="სხვა ქვეყნები",Pointe TV
-https://tv.pointville.ag/hls/mystream.m3u8
-#EXTINF:-1 group-title="სხვა ქვეყნები",KCTV
-https://kctv.koryofront.org/stream/index.m3u8
-#EXTINF:-1 group-title="სხვა ქვეყნები",Ryongnamsan TV
-https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
-
-> https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
->
-> * **【成人】 营养快线10瓶，低调使用（ipv4可用）：**
-> https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
->
-> * **【多仓】 天微：**
-> https://qixing.myhkw.com/DC.txt  {"name":"05153","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05153.txt"},
-	{"name":"FongMi","type":0,"url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
-	{"name":"GaoTian","type":0,"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
-	{"name":"YanG","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
-	{"name":"Swag","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live0515swag.m3u"},
-	
-	{"name":"Guo777","type":0,"url":"https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"},
-#EXTM3U 
-
-
-#EXTINF:0,OLALA 18+ (Adult) (US) (English)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:0,Spice Tv 18+ (Adult) (US) (English)
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
-#EXTINF:0,Brazzers Europe 18+ (Adult) (UK) (English)
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-
-#EXTINF:-1,[COLOR green] XXX [/COLOR]
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1,[COLOR green] sexy[/COLOR]
-http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
-#EXTINF:-1,[COLOR green] 1SCT [/COLOR]
-rtmp://31.220.0.66/pull playpath=xxx1?keys=w20u-coQrP_XNoVjiU1pxw&keyt=1443233037 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1,[COLOR green] BRAZZERS EUROPE [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1,[COLOR green]RUSSIA NIGHT[/COLOR]
-http://j.mp/ZCH_C01_RUSNIGHT2_sly?.m3u8
-#EXTINF:-1,[COLOR green] OLAOLA [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1,[COLOR green] PRIVATE [/COLOR]
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,[COLOR green] PASSI XXX [/COLOR]
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,[COLOR green] ADULT TOP PREMIUM [/COLOR]
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:-1,[COLOR green] JASMIN CHANNEL [/COLOR]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1,[COLOR green] BELLA CLUB[/COLOR]
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1,[COLOR green] BELLA CLUB[/COLOR]
-http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
-#EXTINF:-1,[COLOR green] EVT 2 [/COLOR]
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-#EXTINF:-1,[COLOR violet]hustler tv[/COLOR]
-http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
-#EXTINF:-1,[COLOR violet]Hustler hd[/COLOR]
-http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
-#EXTINF:-1,[COLOR violet]Private.com[/COLOR] clicar varias vezes
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,[COLOR violet]Venus[/COLOR][COLOR yellow] fusaka list[/COLOR]
-rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:-1,[COLOR violet] HUSTLER HD][/COLOR] 
-http://78.31.65.171:20000/live/BzvDRtU6PK/76c9nAGXhv/90.m3u8
-#EXTINF:-1,[COLOR violet] REDLIGHT [/COLOR]
-
-
-#EXTINF:-1,AD-Horny
-http://37.187.175.177:8000/live/44908/44908/1013.m3u8
-#EXTINF:-1,AD-porn1
-http://37.187.175.177:8000/live/44908/44908/986.m3u8
-#EXTINF:-1,AD-Venus
-http://37.187.175.177:8000/live/44908/44908/1019.m3u8
-#EXTINF:-1,AD-pasteb
-http://37.187.175.177:8000/live/44908/44908/1016.m3u8
-#EXTINF:-1,AD-T_girls
-http://37.187.175.177:8000/live/44908/44908/991.m3u8
-#EXTINF:-1,AD-HOT_SHOTS
-http://37.187.175.177:8000/live/44908/44908/1005.m3u8
-#EXTINF:-1,AD- xstrem
-http://37.187.175.177:8000/live/44908/44908/1003.m3u8
-#EXTINF:-1,AD-ppor2
-http://37.187.175.177:8000/live/44908/44908/1001.m3u8
-#EXTINF:-1,AD-xBlue
-http://37.187.175.177:8000/live/44908/44908/996.m3u8
-#EXTINF:-1,AD-JasminTV
-http://37.187.175.177:8000/live/44908/44908/987.m3u8
-#EXTINF:-1,AD-PASSION_x
-http://37.187.175.177:8000/live/44908/44908/1022.m3u8
-#EXTINF:-1,AD-RedHot
-http://37.187.175.177:8000/live/44908/44908/1011.m3u8
-#EXTINF:-1,AD-Jazmin_Channel-HD
-http://37.187.175.177:8000/live/44908/44908/1006.m3u8
-#EXTINF:-1,AD-JASMIN
-http://37.187.175.177:8000/live/44908/44908/995.m3u8
-#EXTINF:-1,AD-Breeze
-http://37.187.175.177:8000/live/44908/44908/1018.m3u8
-#EXTINF:-1,AD-ShyGirl
-http://37.187.175.177:8000/live/44908/44908/1009.m3u8
-#EXTINF:-1,AD-korea2
-http://37.187.175.177:8000/live/44908/44908/1008.m3u8
-#EXTINF:-1,AD-HD Video
-http://37.187.175.177:8000/live/44908/44908/1007.m3u8
-#EXTINF:-1,AD-Undermyfoot
-http://37.187.175.177:8000/live/44908/44908/990.m3u8
-#EXTINF:-1,AD-Nurse
-http://37.187.175.177:8000/live/44908/44908/992.m3u8
-#EXTINF:-1,AD-Starr
-http://37.187.175.177:8000/live/44908/44908/993.m3u8
-#EXTINF:-1,AD-REDLIGHT
-http://37.187.175.177:8000/live/44908/44908/1000.m3u8
-#EXTINF:-1,AD-HD Video2
-http://37.187.175.177:8000/live/44908/44908/989.m3u8
-#EXTINF:-1,AD-VOD3
-http://37.187.175.177:8000/live/44908/44908/994.m3u8
-#EXTINF:-1,Blue Hustler
-http://95.67.182.2:81/udp/233.99.61.87:5000
-#EXTINF:-1,Ola-la
-http://95.67.182.2:81/udp/233.99.61.148:5000
-#EXTINF:-1,XXL
-http://95.67.182.2:81/udp/233.99.61.160:5000
-#EXTINF:-1,Русская ночь
-http://95.67.182.2:81/udp/233.99.61.232:5000
-#EXTINF:-1,Brazzers TV
-http://95.67.182.2:81/udp/233.99.61.246:5000
-#EXTINF:-1,XXL
-http://178.167.120.149:4022/udp/234.5.2.246:1234
-#EXTINF:-1,PlayBoy
-http://178.167.120.149:4022/udp/234.5.2.247:1234
-#EXTINF:-1,Brazers TV
-http://178.167.120.149:4022/udp/234.5.2.248:1234
-#EXTINF:-1,Русская Ночь
-http://178.167.120.149:4022/udp/234.5.2.249:1234
-
-{
-"站名": "性欲轮回",
-"主页url": "https://www.singyulh.cc/",
-"直接播放": "1",
-"列表显示": "0",
-"横图显示": "0",
-"分类":"国产视频$1#日本视频$2#VR视频$3#韩国视频$4#欧美视频$5#动画视频$6#中文字幕$9#国产传媒$160#泰国视频$82",
-"数组": "class=\"item-box&&</section>",
-"图片": "img src=\"&&\"",
-"标题": "alt=\"&&\"",
-"链接": "href=\"&&\"",
-"副标题":"添加时间:&&</span>",
-"搜索url":"/vodsearch/{wd}----------{pg}---.html",
-"搜索模式":"0",
-"搜索数组":"class=\"item-box&&</section>",
-"搜索图片":"img src=\"&&\"",
-"搜索标题":"alt=\"&&\"",
-"搜索链接":"href=\"&&\"",
-"搜索后缀":"/index.php/vodplay/",
-"搜索链接前缀":"https://www.singyulh.cc/",
-"搜索链接后缀":"-1-1.html",
-"影片年代":"年份：&&</p>",
-"影片地区":"地区：&&<span",
-"影片类型":"类型：&&<span",
-"导演":"导演：&&</p>",
-"主演":"主演：&&</p>",
-"简介":"简介：&&</p>",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-"过滤词":"=http#.jpg#.png#.ico#.gif#.js",
-"分类url":"https://www.singyulh.cc/index.php/vodtype/{cateId}-{catePg}.html",
-"筛选":{
-"1":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"v":"","n":"全部"},
-{"v":"10","n":"国产精品"},
-{"v":"11","n":"精品三级"},
-{"v":"16","n":"主播大秀"},
-{"v":"17","n":"抖阴视频"},
-{"v":"14","n":"国模私拍"},
-{"v":"15","n":"颜射瞬间"},
-{"v":"16","n":"女神学生"},
-{"v":"17","n":"美熟少妇"},
-{"v":"18","n":"娇妻素人"},
-{"v":"19","n":"空姐模特"},
-{"v":"20","n":"国产乱伦"},
-{"v":"26","n":"专题"},
-{"v":"21","n":"自慰群交"},
-{"v":"22","n":"野合车震"},
-{"v":"23","n":"职场同事"},
-{"v":"24","n":"国产名人"},
-{"v":"25","n":"网曝门事件"},
-{"v":"57","n":"偷拍自拍"},
-{"v":"99","n":"深夜保健室"},
-{"v":"119","n":"北京天使"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"2":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"v":"","n":"全部"},
-{"v":"27","n":"骑兵有码"},
-{"v":"28","n":"步兵无码"},
-{"v":"50","n":"制服师生"},
-{"v":"51","n":"强奸乱伦"},
-{"v":"53","n":"人妻熟女"},
-{"v":"55","n":"三级剧情"},
-{"v":"56","n":"丝袜美腿"},
-{"v":"58","n":"亚洲情色"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"3":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"v":"","n":"全部"},
-{"v":"7","n":"VR有码"},
-{"v":"8","n":"VR无码"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"4":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"v":"","n":"全部"},
-{"v":"42","n":"韩国精品"},
-{"v":"43","n":"韩国制服主播"},
-{"v":"44","n":"韩国萝莉主播"},
-{"v":"45","n":"韩国大秀主播"},
-{"v":"46","n":"韩国自慰主播"},
-{"v":"47","n":"韩国唯美三级"},
-{"v":"48","n":"韩国明星学生"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"5":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"v":"","n":"全部"},
-{"v":"29","n":"欧美性爱"},
-{"v":"93","n":"性爱音乐视频-PMV"},
-{"v":"30","n":"人兽"},
-{"v":"31","n":"人妖"},
-{"v":"95","n":"MomsTeachSex"},
-{"v":"32","n":"男同"},
-{"v":"33","n":"女同"},
-{"v":"83","n":"Fake Taxi"},
-{"v":"87","n":"Barzzers"},
-{"v":"117","n":"Wow Girls"},
-{"v":"116","n":"FamilyStrokes"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"6":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"v":"","n":"全部"},
-{"v":"49","n":"卡通动漫"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"9":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"v":"","n":"全部"},
-{"v":"34","n":"无码中文"},
-{"v":"35","n":"强奸中文"},
-{"v":"36","n":"巨乳中文"},
-{"v":"37","n":"乱伦中文"},
-{"v":"38","n":"制服中文"},
-{"v":"39","n":"人妻中文"},
-{"v":"40","n":"调教中文"},
-{"v":"41","n":"出轨中文"},
-{"v":"59","n":"中文字幕"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"160":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"v":"","n":"全部"},
-{"v":"161","n":"麻豆视频"},
-{"v":"162","n":"91制片厂"},
-{"v":"163","n":"天美传媒"},
-{"v":"164","n":"蜜桃传媒"},
-{"v":"165","n":"皇家华人"},
-{"v":"166","n":"星空传媒"},
-{"v":"167","n":"精东影业"},
-{"v":"168","n":"乐播传媒"},
-{"v":"169","n":"91茄子"},
-{"v":"170","n":"性视界传媒"},
-{"v":"171","n":"兔子先生"},
-{"v":"172","n":"杏吧原创"},
-{"v":"173","n":"玩偶姐姐"},
-{"v":"174","n":"起点传媒"},
-{"v":"175","n":"SA国际传媒"},
-{"v":"176","n":"萝莉社"},
-{"v":"177","n":"PsychoPorn"},
-{"v":"178","n":"糖心Vlog"},
-{"v":"179","n":"葫芦影业"},
-{"v":"180","n":"果冻传媒"},
-{"v":"68","n":"SWAG"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"82":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"v":"","n":"全部"},
-{"v":"84","n":"GoGoBar"},
-{"v":"85","n":"TukTukPatro"},
-{"v":"86","n":"泰国主播"},
-{"v":"88","n":"人妖偽娘"},
-{"v":"118","n":"TiTTiPorn"},
-{"v":"160","n":"ThaiSkter10"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"全部","v":""},
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-]
-}
-}
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, Satisfaction HD
-http://bit.ly/1HSxcD3
-#EXTINF:-1, SCT
-http://bit.ly/1SLEOHU
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Passion XXX", PASSION XXX SD
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="Adults", JAZMIN TV
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-
-#EXTINF:-1, JUST SEX
-http://46.182.25.34:1935/tv/1420/playlist.m3u8
-
-#EXTINF:-1, BABE STATION
-http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
-
-#EXTINF:-1,Babestation  EXtra
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8
-
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-
-#EXTİNF:-1, PASSION XXX
-http://q.gs/9830047/sex3todokodi
-
-#EXTINF:-1, PASSION XXX (opt2)
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-
-#EXTİNF:-1, XXX
-http://q.gs/9830047/sex4todokodi
-
-#EXTINF:-1, Brazzers Europe
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-
-#EXTINF:-1, XXX1
-http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-
-#EXTINF:-1, OLALA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-
-#EXTINF:-1,CS Sex +18 ADULT (low quality)
-mmsh://tv.webmisto.cz:7000
-
-#EXTINF:-1,Jasmin
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-
-#EXTINF:-1,Power Girls TV HD
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-
-#EXTINF:-1,BABE_XXX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-
-#EXTINF:-1,ADULTI EXTRA 1
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2739.m3u8
-#EXTINF:-1,ADULTI EXTRA 2
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2740.m3u8
-#EXTINF:-1,ADULTI EXTRA 3
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2741.m3u8
-#EXTINF:-1,ADULTI EXTRA 4
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2742.m3u8
-#EXTINF:-1,ADULTI EXTRA 5
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2743.m3u8
-#EXTINF:-1,ADULTI EXTRA 6
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2744.m3u8
-#EXTINF:-1,ADULTI EXTRA 7
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2745.m3u8
-#EXTINF:-1,ADULTI EXTRA 8
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2746.m3u8
-#EXTINF:-1,ADULTI EXTRA 9
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2747.m3u8
-#EXTINF:-1,ADULTI EXTRA 10
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2748.m3u8
-#EXTINF:-1,ADULTI EXTRA 11
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2749.m3u8
-#EXTINF:-1,ADULTI EXTRA 12
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2750.m3u8
-#EXTINF:-1,ADULTI EXTRA 13
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2755.m3u8
-#EXTINF:-1,ADULTI EXTRA 14
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2752.m3u8
-#EXTINF:-1,ADULTI EXTRA 15
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2753.m3u8
-#EXTINF:-1,ADULTI EXTRA 16
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2754.m3u8
-#EXTINF:-1,ADULTI EXTRA 17
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2756.m3u8
-#EXTINF:-1,ADULTI EXTRA 18
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2757.m3u8
-#EXTINF:-1,ADULTI EXTRA 19
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2758.m3u8
-#EXTINF:-1,ADULTI EXTRA 20
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2759.m3u8
-#EXTINF:-1,ADULTI EXTRA 21
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2760.m3u8
-#EXTINF:-1,ADULTI EXTRA 22
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/2761.m3u8
-
-#EXTINF:-1,ADULTI TGirlstv
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/5334.m3u8
-#EXTINF:-1,ADULTI Sesto Senso Tv
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/5331.m3u8
-#EXTINF:-1,ADULTI SCT
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/5335.m3u8
-#EXTINF:-1,ADULTI Pink O Tv
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/5330.m3u8
-#EXTINF:-1,ADULTI Cento x Cento Tv
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/5333.m3u8
-#EXTINF:-1,ADULTI EXOTICA
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/4921.m3u8
-#EXTINF:-1,ADULTI Dorcel XXX
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/4920.m3u8
-#EXTINF:-1,ADULTI Private TV
-http://vodiptv.dyndns.org:8000/live/sicuro/sicuro/4563.m3u8
-#EXTINF:-1,ADULTI 030416 513 caribpr
-
-
-#EXTINF:-1,==========Adults========== TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/7257.m3u8
-#EXTINF:-1,XXX: Русская Ночь TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/7261.m3u8
-#EXTINF:-1,XXX: Sirina TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1417.m3u8
-#EXTINF:-1,XXX: PassionXXX TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1415.m3u8
-#EXTINF:-1,XXX: Sexto Senso TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1414.m3u8
-#EXTINF:-1,XXX: SCT HQ TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1413.m3u8
-#EXTINF:-1,XXX: SCT HD TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1412.m3u8
-#EXTINF:-1,XXX: Redlight HD TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1411.m3u8
-#EXTINF:-1,XXX: Privee TV TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1410.m3u8
-#EXTINF:-1,XXX: Platinum TV TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1409.m3u8
-#EXTINF:-1,XXX: Pink o TV TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1406.m3u8
-#EXTINF:-1,XXX: Hustler HD TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/1405.m3u8
-#EXTINF:-1,XXX: Hustler TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/395.m3u8
-#EXTINF:-1,XXX: Venus TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/398.m3u8
-#EXTINF:-1,XXX: Private TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/396.m3u8
-#EXTINF:-1,XXX: PLAYBOY TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/393.m3u8
-#EXTINF:-1,XXX: Penthouse TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/399.m3u8
-#EXTINF:-1,XXX: Boy&amp;Boy TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/397.m3u8
-#EXTINF:-1,XXX: Frenchlover TV TV
-http://iptv.alphacs.tv:8080/live/sallanches/sallanches/394.m3u8
-#EXTM3U
-#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Premium IPTV & ZalTV",Long term Adult IPTV & ZalTV
-https://zaltv.co/ads/in-app-ads.mp4
-#EXTINF:0,1 BY ZalTV.co
-http://nvid101.cdnii.com/2020/0/20200392-720p.mp4
 #EXTINF:0,2 BY ZalTV.co
 https://ovhv47.twincdn.com/videos/24/24371/24371_720p.mp4
 #EXTINF:0,3 BY ZalTV.co
@@ -813,3 +108,372 @@ http://nvid101.cdnii.com/2021/1/20211982-720p.mp4
 https://ovhv47.twincdn.com/videos/24/24370/24370_720p.mp4
 #EXTINF:0,29 BY ZalTV.co
 http://nvid101.cdnii.com/2020/0/20200391-720p.mp4
+name: Validate Discussions
+
+on:
+  discussion:
+    types: [created, edited]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    if: github.event.discussion.category.name == 'Channel Search'
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: tibdex/github-app-token@0d49dd721133f900ebd5e0dff2810704e8defbc6 # v1.8.2
+        if: ${{ !env.ACT }}
+        id: create-app-token
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.APP_PRIVATE_KEY }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run discussion:validate
+        id: validator
+        continue-on-error: true
+        env:
+          RAW_BODY: ${{ github.event.discussion.body }}
+          DISC_NUMBER: ${{ github.event.discussion.number }}
+          GITHUB_TOKEN: ${{ steps.create-app-token.outputs.token || secrets.GITHUB_TOKEN }}
+        run: |
+          npm run discussion:validate -- \
+            --number "$DISC_NUMBER" \
+            --body "$RAW_BODY"
+
+      - name: Handle Discussion Result
+        if: always() && hashFiles('temp/logs/result.json') != ''
+        env:
+          GH_TOKEN: ${{ steps.create-app-token.outputs.token }}
+          DISC_NUMBER: ${{ github.event.discussion.number }}
+        run: |
+          COMMENT=$(jq -r '.comment // empty' temp/logs/result.json)
+          LABEL=$(jq -r '.label // empty' temp/logs/result.json)
+
+          if [ "${{ env.ACT }}" = "true" ]; then
+            echo "[MOCK] Comment: $COMMENT"
+            echo "[MOCK] Label: $LABEL"
+          else
+            if [ -n "$COMMENT" ] && [ "$COMMENT" != "null" ]; then
+              gh discussion comment $DISC_NUMBER --body "$COMMENT"
+            fi
+
+            if [ -n "$LABEL" ] && [ "$LABEL" != "null" ]; then
+              gh discussion edit $DISC_NUMBER --add-label "$LABEL"
+            fi
+          fihttps://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short... │                │ LOADING...                │
+│  1  │ 20MinutesTV.fr            │ https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8                    │                │ FFMPEG_STREAMS_NOT_FOUND  │
+│  2  │                           │ https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8                                     │                │ OK                        │
+│  3  │ ADNTVPlus.fr              │ https://samsunguk-adn-samsung-fre-qfrlc.amagi.tv/playlist/samsunguk-adn-samsung-fre/playlist.m3u8    │ Geo-blocked    │ HTTP_FORBIDDEN            │
+│  4  │ Africa24.fr               │ https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8                               │                │ OK                        │
+│  5  │ Africa24English.fr        │ https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8                          │                │ OK                        │
+│  6  │ AfricanewsEnglish.fr      │ https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb2... │                │ HTTP_GATEWAY_TIMEOUT      │
+│  7  │ AlpedHuezTV.fr            │ https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8              
+
+- [act:format](#actformat)
+- [act:update](#actupdate)
+- [act:validate_discussion](#actvalidate_discussion)
+- [act:validate_issue](#actvalidate_issue)
+- [act:validate_label](#actvalidate_label)
+- [api:load](#apiload)
+- [discussion:validate](#discussionvalidate)
+- [issue:validate](#issuevalidate)
+- [playlist:format](#playlistformat)
+- [playlist:update](#playlistupdate)
+  "act:check": "gh act pull_request -W .github/workflows/check.yml",
+    "act:format": "gh act workflow_dispatch -W .github/workflows/format.yml",
+    "act:update": "gh act workflow_dispatch -W .github/workflows/update.yml",
+    "act:validate_discussion": "gh act discussion -W .github/workflows/validate_discussion.yml",
+    "act:validate_issue": "gh act issues -W .github/workflows/validate_issue.yml",
+    "act:validate_label": "gh act issues -W .github/workflows/validate_label.yml",
+    "api:load": "tsx scripts/commands/api/load.ts",
+    "issue:validate": "tsx scripts/commands/issue/validate.ts",
+    "discussion:validate": "tsx scripts/commands/discussion/validate.ts",
+    "playlist:format": "tsx scripts/commands/playlist/format.ts",
+    "playlist:update": "tsx scripts/commands/playlist/update.ts",
+    "playlist:generate": "tsx scripts/commands/playlist/generate.ts",
+@@ -72,4 +74,4 @@
+    "esbuild": "0.23.1",
+    "@xmldom/xmldom": ">=0.8.13 <1.0.0"import { LOGS_DIR, OWNER, REPO, STREAMS_DIR } from '../../constants'
+import { loadData, data as apiData } from '../../api'
+import { Logger } from '@freearhey/core'
+import { Storage } from '@freearhey/storage-js'
+import { PlaylistParser } from '../../core'
+import { Discussion, Stream } from '../../models'
+import { loadDiscussions, parseIssueBody } from '../../utils'
+import { program } from 'commander'
+
+program
+  .requiredOption('--number <number>', 'The discussion number')
+  .requiredOption('--body <body>', 'The full markdown body text of the discussion')
+  .parse(process.argv)
+
+const { number: discussionNumberStr, body } = program.opts()
+const targetDiscussionNumber = parseInt(discussionNumberStr, 10)
+
+const logsStorage = new Storage(LOGS_DIR)
+
+const status = {
+  OK: 'ok',
+  FULFILLED: 'fulfilled',
+  INVALID_CHANNEL_ID: 'invalid_channel_id',
+  MISSING_FEED_ID: 'missing_feed_id',
+  DUPLICATE_REQUEST: 'duplicate_request'
+}
+
+async function main() {
+  const logger = new Logger()
+
+  logger.info('loading discussions...')
+  const discussions = await loadDiscussions()
+
+  logger.info('loading data from api...')
+  await loadData()
+
+  logger.info('loading streams...')
+  const streamsStorage = new Storage(STREAMS_DIR)
+  const parser = new PlaylistParser({ storage: streamsStorage })
+  const files = await streamsStorage.list('**/*.m3u')
+  const streams = await parser.parse(files)
+  const streamsGroupedById = streams.groupBy((stream: Stream) => stream.getId())
+
+  const discussionData = parseIssueBody(body)
+  const streamId =
+    discussionData.getString('stream_id') ||
+    discussionData.getString('channel_id') ||
+    ''
+  const [channelId, feedId] = streamId.split('@')
+
+  const priorDiscussions = discussions.filter(
+    (d: Discussion) => d.number < targetDiscussionNumber && d.category === 'Channel Search'
+  )
+  const seenStreamIds = new Set<string>()
+  let originalDiscussionNumber: number | null = null
+
+  priorDiscussions.forEach((d: Discussion) => {
+    const existingId = d.data.getString('stream_id') || d.data.getString('channel_id') || ''
+    if (existingId) {
+      seenStreamIds.add(existingId)
+      if (existingId === streamId && !originalDiscussionNumber) {
+        originalDiscussionNumber = d.number
+      }
+    }
+  })
+
+  let finalStatus = status.OK
+  if (!channelId || apiData.channelsKeyById.missing(channelId)) {
+    finalStatus = status.INVALID_CHANNEL_ID
+  } else if (!feedId) {
+    finalStatus = status.MISSING_FEED_ID
+  } else if (streamId && seenStreamIds.has(streamId)) {
+    finalStatus = status.DUPLICATE_REQUEST
+  } else if (streamsGroupedById.has(streamId)) {
+    finalStatus = status.FULFILLED
+  }
+
+  const repo = process.env.GITHUB_REPOSITORY || OWNER + '/' + REPO
+  const sha = process.env.GITHUB_SHA || 'master'
+
+  let comment = ''
+  let label = 'check:passed'
+  let close = 'false'
+
+  if (finalStatus === status.FULFILLED) {
+    for (const filePath of files) {
+      const content = await streamsStorage.load(filePath)
+      const lines = content.split(/\r?\n/)
+      const lineIndex = lines.findIndex(line => line.includes(streamId))
+      if (lineIndex !== -1) {
+        const permalink = `https://github.com/${repo}/blob/${sha}/streams/${filePath}#L${lineIndex + 1}-L${lineIndex + 2}`
+        comment = `A link to the "${streamId}" stream is already in the playlist: ${permalink}`
+        label = 'check:failed'
+        close = 'true'
+        break
+      }
+    }
+  } else if (finalStatus === status.DUPLICATE_REQUEST) {
+    comment = `Duplicate of #${originalDiscussionNumber}.`
+    label = 'check:failed'
+    close = 'true'
+  } else if (finalStatus === status.INVALID_CHANNEL_ID) {
+    comment = `There is no channel with the ID "${channelId}" in the database.`
+    label = 'check:failed'
+    close = 'true'
+  } else if (finalStatus === status.MISSING_FEED_ID) {
+    comment = 'The request is missing the feed ID.'
+    label = 'check:failed'
+    close = 'true'
+  }
+
+  const result = {
+    number: targetDiscussionNumber,
+    streamId: streamId,
+    status: finalStatus,
+    label: label,
+    comment: comment,
+    close: close
+  }
+
+  logsStorage.saveSync('result.json', JSON.stringify(result, null, 2))
+
+  if (finalStatus !== status.FULFILLED) {
+    process.exit(1)
+  }
+
+  process.exit(0)
+}
+
+main()#EXTM3U x-tvg-url=""
+#EXTINF:0 tvg-name="Asian Porn 1 18+" tvg-language="Japanese" tvg-country="JP" tvg-id="Asian Porn 1" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",Asian Porn 1 18+ (Adult) (JP) (Japanese)
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:0 tvg-name="Babe Station Extra 18+" tvg-language="English" tvg-country="UK" tvg-id="Babe Station Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg" group-title="Adult",Babe Station Extra 18+ (Adult) (UK) (English)
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:0 tvg-name="Babe Station Unleashed 18+" tvg-language="English" tvg-country="UK" tvg-id="Babe Station Unleashed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg" group-title="Adult",Babe Station Unleashed 18+ (Adult) (UK) (English)
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:0 tvg-name="Babe Station 18+" tvg-language="English" tvg-country="US" tvg-id="Babe Station" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Babestation_Logo.jpg" group-title="Adult",Babe Station 18+ (Adult) (US) (English)
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:0 tvg-name="Brazzers Europe 18+" tvg-language="English" tvg-country="UK" tvg-id="Brazzers Europe" tvg-logo="http://www.maxicom.cz/img-programy/brazzerstveurope.png" group-title="Adult",Brazzers Europe 18+ (Adult) (UK) (English)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:0 tvg-name="Dusk Deluxe 18+" tvg-language="English" tvg-country="NL" tvg-id="Dusk Deluxe" tvg-logo="http://cablenet.com.cy/wp-content/uploads/DUSK.jpg" group-title="Adult",Dusk Deluxe 18+ (Adult) (NL) (English)
+http://dimeli.bplaced.net/00.m3u8
+#EXTINF:0 tvg-name="Jasmin Channel 18+" tvg-language="English" tvg-country="US" tvg-id="Jasmin Channel" tvg-logo="http://i.imgur.com/6xw9K7B.png" group-title="Adult",Jasmin Channel 18+ (Adult) (US) (English)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:0 tvg-name="Korea XXX 18+" tvg-language="Japanese" tvg-country="JP" tvg-id="Korea XXX" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",Korea XXX 18+ (Adult) (JP) (Japanese)
+http://edge2.everyon.tv/etv2/phd1003/playlist.m3u8
+#EXTINF:0 tvg-name="OKADAI HD 18+" tvg-language="Japanese" tvg-country="JP" tvg-id="OKADAI HD 18+" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",OKADAI HD 18+ (Adult) (JP) (Japanese)
+http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
+#EXTINF:0 tvg-name="OLALA 18+" tvg-language="English" tvg-country="US" tvg-id="OLALA" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2015/01/o-la-la.jpg" group-title="Adult",OLALA 18+ (Adult) (US) (English)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:0 tvg-name="Passie XXX 18+" tvg-language="English" tvg-country="US" tvg-id="Passie XXX 18+" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",Passie XXX 18+ (Adult) (US) (English)
+http://178.33.126.213:1935/leved/passielivestream/.m3u8
+#EXTINF:0 tvg-name="Passion XXX 18+" tvg-language="English" tvg-country="US" tvg-id="Passion XXX" tvg-logo="http://cdn1.static.youporn.phncdn.com/channel/logo/2206.jpg" group-title="Adult",Passion XXX 18+ (Adult) (US) (English)
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:0 tvg-name="Playboy TV 18+" tvg-language="English" tvg-country="US" tvg-id="Playboy TV" tvg-logo="http://www.blogcdn.com/www.aoltv.com/media/2010/03/playboy-tv-logo-200a031710-fp.jpg" group-title="Adult",Playboy TV 18+ (Adult) (US) (English)
+http://s2.edem.tv/iptv/6TGEMRUHCLH9PG/124/527/index.m3u8
+#EXTINF:0 tvg-name="Russian Nights 18+" tvg-language="English" tvg-country="US" tvg-id="Russian Nights" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",Russian Nights 18+ (Adult) (US) (English)
+http://s2.edem.tv/iptv/P9H8NU9NLNZ2KA/147/index.m3u8
+#EXTINF:0 tvg-name="SexySat Europe 1 18+" tvg-language="German" tvg-country="DE" tvg-id="SexySat Europe 1 18+" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",SexySat Europe 1 18+ (Adult) (DE) (German)
+http://81.89.48.215:1935/xyz444wkz/xy4_360p/playlist.m3u8
+#EXTINF:0 tvg-name="SexySat Latinas 18+" tvg-language="Portuguese" tvg-country="BR" tvg-id="SexySat Latinas 18+" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",SexySat Latinas 18+ (Adult) (BR) (Portuguese)
+http://81.89.48.215:1935/xyz112wkz/xy112_360p/playlist.m3u8
+#EXTINF:0 tvg-name="Spice Tv 18+" tvg-language="English" tvg-country="US" tvg-id="Spice Tv" tvg-logo="http://www.sgen.it/Societa_file/privateSpiceLogo.png" group-title="Adult",Spice Tv 18+ (Adult) (US) (English)
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+#EXTINF:0 tvg-name="Storm Babes 18+" tvg-language="English" tvg-country="US" tvg-id="Storm Babes" tvg-logo="http://i.annihil.us/u/prod/marvel//universe3zx/images/2/2a/Storm_small.jpg" group-title="Adult",Storm Babes 18+ (Adult) (US) (English)
+http://playback.d2see.com:1935/wavemachine-live01/mp4:playboytv_channel2/playlist.m3u8
+#EXTINF:0 tvg-name="Top Music - CityTV 18+" tvg-language="Akan" tvg-country="AF" tvg-id="Top Music - CityTV 18+" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",Top Music - CityTV 18+ (Adult) (AF) (Akan)
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:0 tvg-name="Variety1 XXX 18+" tvg-language="English" tvg-country="US" tvg-id="Variety1 XXX" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",Variety1 XXX 18+ (Adult) (US) (English)
+http://188.165.220.116:8081/live2/17/playlist.m3u8
+#EXTINF:0 tvg-name="Variety2 XXX 18+" tvg-language="English" tvg-country="US" tvg-id="Variety2 XXX" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",Variety2 XXX 18+ (Adult) (US) (English)
+http://188.165.220.116:8081/live/45/playlist.m3u8
+#EXTINF:0 tvg-name="XXX Asia 1 18+" tvg-language="English" tvg-country="CN" tvg-id="XXX Asia 1" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",XXX Asia 1 18+ (Adult) (CN) (English)
+http://edge2.everyon.tv/etv2/phd1005/chunklist_w2033129086.m3u8
+#EXTINF:0 tvg-name="XXX Asia 2 18+" tvg-language="English" tvg-country="CN" tvg-id="XXX Asia 2" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Adult",XXX Asia 2 18+ (Adult) (CN) (English)
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8#PLAYLISTV: pltv-logo="http://brasilhentai.info/G1002/capa.jpg" pltv-name="-Y0RICK HENTAIS-" pltv-description=[COLOR red]YORICK[/COLOR] HENTAIS" pltv-cover="http://www.libnor.com/porn-comics-xxx-55/adult-dvd-hentai-5q0z.jpg" pltv-author="YORICK HENTAIS" pltv-site="anonymous" pltv-email="anonymous@illuminati.com" pltv-phone="9-0666-6660"
+#################################################
+
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/9/34883.jpg" group-title="Euphoria", Euphoria 01
+https://video23.mais.uol.com.br/15730639.mp4?ver=0&r=https://mais.uol.com.br
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/9/34883.jpg" group-title="Euphoria", Euphoria 02
+https://video23.mais.uol.com.br/15730643.mp4?ver=0&r=https://mais.uol.com.br
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/9/34883.jpg" group-title="Euphoria", Euphoria 03
+https://video23.mais.uol.com.br/15730645.mp4?ver=0&r=https://mais.uol.com.br
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/9/34883.jpg" group-title="Euphoria", Euphoria 04
+https://video23.mais.uol.com.br/15730646.mp4?ver=0&r=https://mais.uol.com.br
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/9/34883.jpg" group-title="Euphoria", Euphoria 05
+https://video23.mais.uol.com.br/15730653.mp4?ver=0&r=https://mais.uol.com.br
+
+#EXTINF:-1 tvg-logo="https://www.anitube.me/images/animes/3/yunyun-paradise-002009.jpg" group-title="Yunyun Paradise", Yunyun Paradise 01
+https://www.blogger.com/video-play.mp4?contentId=349fd424ece121b8
+
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/5/65203l.jpg" group-title="Yume Kui - Tsurumiku Shiki Game Seisaku", 01 Yume Kui Tsurumiku Shiki Game Seisaku
+https://www.blogger.com/video-play.mp4?contentId=62ddee7d37643447
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/5/65203l.jpg" group-title="Yume Kui - Tsurumiku Shiki Game Seisaku", 02 Yume Kui Tsurumiku Shiki Game Seisaku
+https://www.blogger.com/video-play.mp4?contentId=9d9db412f0bb6ab6
+
+#EXTINF:-1 tvg-logo="https://www.hshare.net/uploads/monthly_2016_05/5736af4b5b1b7_OHGTsumatoMamatoBoin(4).jpg.4f4472c8bf61fbdfa06656003773f67e.jpg" group-title="Tsuma to Mama to Boin", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=3d759f519dba8673
+#EXTINF:-1 tvg-logo="https://www.hshare.net/uploads/monthly_2016_05/5736af4b5b1b7_OHGTsumatoMamatoBoin(4).jpg.4f4472c8bf61fbdfa06656003773f67e.jpg" group-title="Tsuma to Mama to Boin", Episodio 02
+https://www.blogger.com/video-play.mp4?contentId=6304e0d10add2d26
+
+#EXTINF:-1 tvg-logo="https://static.giantbomb.com/uploads/scale_small/4/49388/2179211-4568234168_05c4960032.jpg" group-title="Tsui no Sora", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=7a15be232a8e8f5
+
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/6/66751.jpg" group-title="Tsugou no Yoi Sexfriend?", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=1372af15a7c24158
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/6/66751.jpg" group-title="Tsugou no Yoi Sexfriend?", Episodio 02
+https://www.blogger.com/video-play.mp4?contentId=9e03bb88ce2e2c91
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/6/66751.jpg" group-title="Tsugou no Yoi Sexfriend?", Episodio 03
+https://www.blogger.com/video-play.mp4?contentId=7365975c8743f04f
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/6/66751.jpg" group-title="Tsugou no Yoi Sexfriend?", Episodio 04
+https://www.blogger.com/video-play.mp4?contentId=ae21752ac76eb824
+
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/13/10485l.jpg" group-title="Tragic Silence - Shoujo Yugi", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=6691f382803cdebf
+
+#EXTINF:-1 tvg-logo="http://i.hentai-ddl.org/images/2014/09/11/Tenioha_-_ss2.th.jpg" group-title="Tenioha! Onna no Ko datte Honto wa Ecchi Da yo?", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=f4612717256960a3
+#EXTINF:-1 tvg-logo="http://i.hentai-ddl.org/images/2014/09/11/Tenioha_-_ss2.th.jpg" group-title="Tenioha! Onna no Ko datte Honto wa Ecchi Da yo?", Episodio 02
+https://www.blogger.com/video-play.mp4?contentId=5b8f6aefc60485d8
+
+#EXTINF:-1 tvg-logo="https://static.anitube.me/animes/2/sweet-home-h-na-onee-san-wa-suki-desu-ka-002000.jpg" group-title="Sweet Home: H na Onee-san wa Suki Desu ka?", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=70903f9b01c6edb8
+#EXTINF:-1 tvg-logo="https://static.anitube.me/animes/2/sweet-home-h-na-onee-san-wa-suki-desu-ka-002000.jpg" group-title="Sweet Home: H na Onee-san wa Suki Desu ka?", Episodio 02
+https://www.blogger.com/video-play.mp4?contentId=96aac10de68519d8
+#EXTINF:-1 tvg-logo="https://static.anitube.me/animes/2/sweet-home-h-na-onee-san-wa-suki-desu-ka-002000.jpg" group-title="Sweet Home: H na Onee-san wa Suki Desu ka?", Episodio 03
+https://www.blogger.com/video-play.mp4?contentId=695d503693534840
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_zVmxg7tYWM/hqdefault.jpg" group-title="Soushisouai Note The Animation", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=44b949fd254f88c
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_zVmxg7tYWM/hqdefault.jpg" group-title="Soushisouai Note The Animation", Episodio 02
+https://www.blogger.com/video-play.mp4?contentId=7fc48fad144951f0
+
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/13/33325.jpg" group-title="Soredemo Tsuma wo Aishiteru", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=ebc70767e16d631b
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/13/33325.jpg" group-title="Soredemo Tsuma wo Aishiteru", Episodio 02
+https://www.blogger.com/video-play.mp4?contentId=3e58d2ed872addac
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/13/33325.jpg" group-title="Soredemo Tsuma wo Aishiteru", Episodio 03
+https://www.blogger.com/video-play.mp4?contentId=763e8eef1f935d4
+
+#EXTINF:-1 tvg-logo="https://www.animakai.info/imagens/capa/bb3c72229b785a1084bbf8d5ce57eaf0e9b3597d.jpg" group-title="Shoya: Virgin Night", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=768033a58482da3e
+
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/6/62091.jpg" group-title="Shocking Pink", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=c1e73134f8c75c70
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/6/62091.jpg" group-title="Shocking Pink", Episodio 02
+https://www.blogger.com/video-play.mp4?contentId=ea29a1ca4982cc55
+
+#EXTINF:-1 tvg-logo="https://static.anitube.me/animes/2/sei-brunehilde-gakuen-shoujo-kishidan-to-junpaku-no-panty-001994.jpg" group-title="Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty", Episodio 01
+https://www.blogger.com/video-play.mp4?contentId=896e7b7192ce27c4
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
+
+#EXTINF:-1 tvg-logo="XXXXXXXXXXXXXXXXXXXXX" group-title="XXXXXXXXXXXXXXXXXX", Episodio 01
