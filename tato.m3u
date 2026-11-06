@@ -1355,4 +1355,46 @@ http://stream.mcquack.net/284/index.m3u8
 #EXTINF:-1 group-title="Эротика" audio-track="rus", XY Max
 http://79.124.21.250:8199/play/DiemaSport/index.m3u8
 
-http://tv.ttk.mx:9066
+http://tv.ttk.mx:9066#EXTM3U
+#───────────────────────────────────────────────
+# 💎 DIMUK100 World+Geo Premium
+# 🌍 Premium IPTV Playlist (Geo + World)
+# 🧩 Category-based | 🇬🇪 Bilingual (Geo/Eng)
+# 🎨 Modern Purple Theme | Auto-Update Enabled
+#───────────────────────────────────────────────
+
+# ✨ კატეგორიები / Categories
+# 🇬🇪 ქართული არხები (Georgian Channels)
+# ⚽ სპორტი (Sports)
+# 🎬 კინო და სერიალები (Movies & Series)
+# 👶 ბავშვური არხები (Kids)
+# 🧠 დოკუმენტური (Documentary)
+# 🎵 მუსიკა (Music)
+# ⛪ რელიგიური / რეგიონული (Religious / Regional)
+# 🌍 საერთაშორისო არხები (World Channels)
+# 🎞️ ქართული კინო / VOD (Georgian Movies / VOD)
+# 📻 რადიო არხები (Radio - Geo & World)
+#───────────────────────────────────────────────
+# 🕒 ავტო განახლება / Auto Update:
+# ფლეილისტი ავტომატურად განახლდება ყოველ ჩატვირთვაზე
+#───────────────────────────────────────────────
+# ───────────── 🇬🇪 ქართული არხები / Georgian Channels ─────────────
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/1TV_Georgia_logo.png" group-title="🇬🇪 ქართული არხები", პირველი არხი (1TV)
+https://live1tv.1tv.ge/1tv/1tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ka/f/f8/Imedi_TV_logo.png" group-title="🇬🇪 ქართული არხები", იმედი TV
+https://cdn.ghn.ge/imedi_tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Rustavi_2_2021_logo.png" group-title="🇬🇪 ქართული არხები", რუსთავი 2
+https://streaming.cdn77.com/rustavi2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLQ5Ccb.png" group-title="🇬🇪 ქართული არხები", მტავარი არხი (Mtavari Arkhi)
+https://tv.cdn.xsg.ge/live/mtavari/index.m3u8
+
+#EXTINF:-1 group-title="შემეცნებითი" tvg-name="NASA TV", NASA Live Stream
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#───────────────────────────────────────────────
+# 🔄 განახლების ბმული / Update link
+# https://dimuk100-premium.link/playlist.m3u
+
