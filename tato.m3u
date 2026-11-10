@@ -1398,3 +1398,29 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp
 # 🔄 განახლების ბმული / Update link
 # https://dimuk100-premium.link/playlist.m3u
 
+#EXTM3U
+#PLAYLIST:Tato — თემატური ტელეარხები
+# Checked: 2026-10-27; actual media sample downloaded, H.264 video frame decoded, audio codec detected.
+# Test location: remote environment; Georgian ISP and specific TV playback not tested.
+# Public playlist sources: https://github.com/iptv-org/iptv ; https://iptv-org.github.io/iptv/
+# Availability, programmes and regional restrictions may change.
+#EXTINF:-1 tvg-id="1TV.ge@SD" group-title="ქართული",პირველი არხი
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="2TV.ge@SD" group-title="ქართული",მეორე არხი
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="BMGTV.ge@SD" group-title="ქართული",BMG
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 tvg-id="Ertsulovneba.ge@SD" group-title="ქართული",ერთსულოვნება
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" group-title="ქართული",ევრონიუსი საქართველო
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 tvg-id="Formula.ge@SD" group-title="ქართული",ფორმულა
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge@SD" group-title="ქართული",იმედი
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge@SD" group-title="ქართული",პალიტრანიუსი
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge@SD" group-title="ქართული",რუსთავი 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+#EXTINF:-1 tvg-id="TVPirveli.ge@SD" group-title="ქართული",ტვ პირველი
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
